@@ -1,7 +1,7 @@
 # UDE-prostate
 UDE-prostate dataset with generated CG target maps. The MRI are modified with CLAHE.
 
-<a href="https://zenodo.org/badge/latestdoi/483128864"><img src="https://zenodo.org/badge/483128864.svg" alt="DOI"></a>
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.11108493.svg)](https://doi.org/10.5281/zenodo.11108493)
 
 
 ## Create Zip-Archive
